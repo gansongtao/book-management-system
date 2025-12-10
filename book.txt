@@ -1,0 +1,10 @@
+008 NewlyOrganizedUniversityEnglish2 ZhejiangUniversity ZhejiangUniversityPress 100 100 99
+009 NewlyOrganizedUniversityEnglish4 ZhejiangUniversity ZhejiangUniversityPress 100 100 99
+010 C++Programming QianNeng TsinghuaUniversityPress 100 100 99
+001 NewlyOrganizedUniversityEnglish1 ZhejiangUniversity ZhejiangUniversityPress 100 98 101
+002 CalculusProblemSolutionGuide TongjiUniversity HigherEducationPress 100 99 100
+003 Calculus TongjiUniversity HigherEducationPress 100 100 99
+004 CET-4Reading ShiZhengyong WorldPublishingHouse 100 100 99
+005 C++HighLevelProgramming QianNeng TsinghuaUniversityPress 100 99 100
+006 EssentialsOnChineseCulture SunLiping ZhejiangUniversityPress 100 100 99
+007 NewlyOrganizedUniversityEnglish3 ZhejiangUniversity ZhejiangUniversityPress 100 100 99
